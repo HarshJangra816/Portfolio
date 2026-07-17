@@ -415,13 +415,13 @@ function Index() {
           </p>
           <div className="mt-6 flex flex-wrap gap-3">
             <a
-              href="mailto:harsh@example.com"
+              href="mailto:dev.Brook@outlook.in"
               className="inline-flex items-center gap-2 rounded-sm bg-[var(--neon-magenta)] px-4 py-2 text-xs uppercase tracking-widest text-[oklch(0.12_0.03_275)] hover:opacity-90"
             >
-              <Mail className="h-3.5 w-3.5" /> harsh@example.com
+              <Mail className="h-3.5 w-3.5" /> dev.Brook@outlook.in
             </a>
             <a
-              href="#"
+              href="https://github.com/HarshJangra816"
               className="inline-flex items-center gap-2 rounded-sm border border-border px-4 py-2 text-xs uppercase tracking-widest text-muted-foreground hover:text-[var(--neon-cyan)]"
             >
               <Github className="h-3.5 w-3.5" /> github/brook
